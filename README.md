@@ -43,7 +43,7 @@ The  datasets used for the numerical study are available at https://www.dropbox.
 
 ## Reproduce numerical results
 
-To reproduce each result in the paper, please run the file with the corresponding case number in the "src" directory. For example, to generate the numerical results in Case 1 of Section 7, please run ```python src/Section7/case1.py```.
+To reproduce each result in the paper, please run the file with the corresponding case number in the "src" directory. For example, to generate the numerical results in Case 1 of Section 7 (Figure 5), please run ```python src/Section7/Figure_5.py```.
 
 ## Support
 
